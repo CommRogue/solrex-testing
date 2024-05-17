@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:cc="http://creativecommons.org/ns#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:svg="http://www.w3.org/2000/svg"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+width="110"
+height="110"
+id="logo-solr"
+sodipodi:version="0.32"
+inkscape:version="0.46"
+version="1.0"
+sodipodi:docname="gear 7.svg"
+inkscape:output_extension="org.inkscape.output.svg.inkscape">
+    <g id="surface1">
+        <path style="fill:currentColor; stroke:none;fill-rule:nonzero;fill-opacity:1;"
+            d="M 95.0625 17.417969 L 40.910156 75.960938 L 108.96875 44.558594 C 106.988281 34.378906 102.167969 24.96875 95.0625 17.417969 M 54.886719 0 C 47.382812 0 40.234375 1.503906 33.714844 4.222656 L 26.449219 65.453125 L 62.757812 0.566406 C 60.152344 0.191406 57.519531 0.00390625 54.886719 0 M 109.507812 47.9375 L 45.023438 84.027344 L 105.527344 76.847656 C 109.4375 67.746094 110.816406 57.757812 109.507812 47.9375 M 85.730469 100.769531 C 92.957031 95.875 98.925781 89.339844 103.148438 81.703125 L 46.433594 92.964844 Z M 66.078125 1.140625 L 34.511719 69.5625 L 93.070312 15.398438 C 85.601562 8.191406 76.242188 3.246094 66.078125 1.140625 M 59.492188 110 C 65.457031 109.511719 71.300781 108.046875 76.789062 105.667969 L 45.023438 101.902344 Z M 4.65625 32.449219 C 2.125 38.050781 0.554688 44.039062 0.015625 50.160156 L 8.570312 65.453125 Z M 28.9375 6.484375 C 21.179688 10.640625 14.523438 16.585938 9.523438 23.828125 L 17.511719 64.039062 Z M 28.9375 6.484375 " />
+    </g>
+</svg>
